@@ -13,4 +13,12 @@ Employee_app/
 ├── static/               # Folder to store static files like CSS, JS, images
 │   ├── style.css
 
-## 
+## Create Sql table Query:
+
+use itwork;
+CREATE TABLE employees (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(255),
+    age INT,
+    department VARCHAR(255)
+);
