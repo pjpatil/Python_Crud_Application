@@ -3,8 +3,8 @@ Disciption :create Employee application on pyhon with database connection Mysql
 
 ## Floder structure:
 
-Employee_app/ \n
-│ \n
+Employee_app/ 
+│ 
 ├── app.py                # Main application file (your current code)
 ├── templates/            # Folder to store HTML templates
 │   ├── index.html        # Template for the homepage (list of employees)
