@@ -16,6 +16,7 @@ Employee_app/
 ## Create Sql table Query:
 
 use itwork;
+
 CREATE TABLE employees (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(255),
