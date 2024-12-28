@@ -2,6 +2,7 @@
 create Employee application on pyhon with database connection Mysql
 
 ## Floder structure:
+
 Employee_app/
 │
 ├── app.py                # Main application file (your current code)
