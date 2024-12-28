@@ -1,10 +1,10 @@
 # Python_Crud_Application
-create Employee application on pyhon with database connection Mysql
+Disciption :create Employee application on pyhon with database connection Mysql
 
 ## Floder structure:
 
-Employee_app/
-│
+Employee_app/ \n
+│ \n
 ├── app.py                # Main application file (your current code)
 ├── templates/            # Folder to store HTML templates
 │   ├── index.html        # Template for the homepage (list of employees)
